@@ -1,6 +1,8 @@
 # **AWS-image-classification-workspace**
 a project that classifies a dog and its breed correctly
 
+CREDIT OF CODE GOES TO UDACITY AI Programming with Python Nanodegree
+
 
 ## **Description:**
 Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
