@@ -165,8 +165,8 @@ def calculates_results_stats(results_dic):
     #           will need to be multiplied by 100.0 to provide the percentage.
     #    
     # Calculates % correct dogs
-    print("the error is here because number of dog images is" , results_stats_dic['n_dogs_img'] )
-    results_stats_dic['n_dogs_img']=20
+    #print("the error is here because number of dog images is" , results_stats_dic['n_dogs_img'] )
+    #results_stats_dic['n_dogs_img']=20
     
     results_stats_dic['pct_correct_dogs'] = (results_stats_dic['n_correct_dogs']/results_stats_dic['n_dogs_img']) * 100.0
 
